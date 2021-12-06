@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 import sys
 
-print("Python version")
+print("\nPython version")
 print (sys.version)
-
-print("\n\n Successful test!")
+print("Successful test!")
