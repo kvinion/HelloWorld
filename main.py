@@ -1,3 +1,7 @@
 #!/usr/bin/env python
+import sys
 
-print('\n I bet you were expecting HELLO WORLD!')
+print("Python version")
+print (sys.version)
+
+print("\n\n Successful test!")
